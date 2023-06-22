@@ -19,9 +19,9 @@
 
 <body>
     <ul>
-        <li><a href="http://127.0.0.1:8000/login">Accedi</a></li>
-        <li><a href="http://127.0.0.1:8000/about">About Us</a></li>
-        <li><a href="http://127.0.0.1:8000/contatti">Contatti</a></li>
+        <li><a href="/login">Accedi</a></li>
+        <li><a href="/about">About Us</a></li>
+        <li><a href="/contatti">Contatti</a></li>
     </ul>
 </body>
 
